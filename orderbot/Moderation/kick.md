@@ -8,4 +8,4 @@ Permission Requirements: <code>kick_members</code>
 
 Example:<br> 
 <code>!kick @Crambor#4137</code> will kick the user and give reason "No reason specified."<br>
-<code>!kick @Crambor#4137 Wanted to be kicked</code> will ban the user and give reason "Wanted to be kicked"
+<code>!kick @Crambor#4137 Wanted to be kicked</code> will kick the user and give reason "Wanted to be kicked"
