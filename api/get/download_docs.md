@@ -1,7 +1,7 @@
 # GET /download/docs/*
 
 ## PARAMETERS
-None
+`req.path`
 
 ## EXAMPLE RESPONSE
 HTML document
